@@ -8,7 +8,7 @@ int doSomeOtherStuffs() {
   return -1;
 }
 
-int doSomethingHere()
+int doSomethingHere1()
 {
-    return 0;
+    return 1;
 }
