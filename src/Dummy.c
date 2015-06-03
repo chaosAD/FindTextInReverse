@@ -9,7 +9,7 @@ int doSomeOtherStuffs() {
 }
 
 int IAmHungry(){
- //really hungry
+ //really hungry, haha
  return 0;
  }
 
@@ -17,4 +17,15 @@ int whatToDoToStopAssignment()
 {
   return 0;
 
+}
+
+int dontDoDummyThingsPlease() {
+  doDummyStuff();
+  doSomeOtherStuffs();
+  return -2;
+}
+
+int whatToDoToGetMoreAssignments()
+{
+  return 0;
 }
