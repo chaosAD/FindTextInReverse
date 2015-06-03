@@ -7,10 +7,15 @@ int doDummyStuff() {
 int doSomeOtherStuffs() {
   return -1;
 }
-
+\
 int f1nux_code_this(){
 
 
 
 return -1;
+}
+=======
+int whatToDoToStopAssignment()
+{
+  return 0;
 }
