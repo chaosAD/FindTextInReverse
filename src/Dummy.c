@@ -1,5 +1,9 @@
 #include "Dummy.h"
 
 int doDummyStuff() {
-  return 0;
+  gila_gila();
+}
+
+int doSomeOtherStuffs() {
+  return -1;
 }
