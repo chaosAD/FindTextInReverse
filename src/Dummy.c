@@ -18,4 +18,3 @@ int whatToDoToGetMoreAssignments()
 {
   return 0;
 }
-
