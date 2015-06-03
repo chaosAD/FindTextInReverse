@@ -13,6 +13,10 @@ int whatToDoToStopAssignment()
   return 0;
 }
 
-void lunch()
+void lunch(){
   printf("I'm hungry!\n Please feed me\n");
+}
+
+void Recess(){
+  printf("I want recess\n");
 }
