@@ -20,6 +20,16 @@ int whatToDoToStopAssignment(){
   return 0
 }
 
+
+
+int DoThingsDummyly(){
+  return 0;
+  }
+
+int NothingToDoToStopAssignment(){
+  return 1;
+}
+
 int dontDoDummyThingsPlease() {
   doDummyStuff();
   doSomeOtherStuffs();
@@ -27,6 +37,7 @@ int dontDoDummyThingsPlease() {
 }
 
 int whatToDoToGetMoreAssignments()
+
 {
   return 0;
 }
