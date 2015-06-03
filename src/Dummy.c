@@ -11,7 +11,19 @@ int doSomeOtherStuffs() {
 int doSomeReallyDummyStuff(){
   return -2
 }
-int whatToDoToStopAssignment()
+
+int whatToDoToStopAssignment(){
+  return 0
+}
+
+int dontDoDummyThingsPlease() {
+  doDummyStuff();
+  doSomeOtherStuffs();
+  return -2;
+}
+
+int whatToDoToGetMoreAssignments()
 {
   return 0;
 }
+
