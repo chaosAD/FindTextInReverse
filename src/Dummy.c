@@ -9,13 +9,17 @@ int doSomeOtherStuffs() {
 }
 \
 int f1nux_code_this(){
-
-
-
 return -1;
 }
-=======
-int whatToDoToStopAssignment()
+
+int dontDoDummyThingsPlease() {
+  doDummyStuff();
+  doSomeOtherStuffs();
+  return -2;
+}
+
+int whatToDoToGetMoreAssignments()
 {
   return 0;
 }
+
