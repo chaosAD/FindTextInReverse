@@ -7,4 +7,5 @@ void tearDown(void) {}
 
 void test_doDummyStuff_given_nothing_should_act_like_dummy() {
   doDummyStuff();
+  Stupid();
 }
