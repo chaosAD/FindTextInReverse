@@ -9,5 +9,9 @@ int doSomeOtherStuffs() {
 }
 
 int doSomeReallyDummyStuff(){
+  return -2
+}
+int whatToDoToStopAssignment()
+{
   return 0;
 }
