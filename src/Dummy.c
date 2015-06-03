@@ -8,7 +8,7 @@ int doSomeOtherStuffs() {
   return -1;
 }
 
-<<<<<<< HEAD
+
 
 int DoThingsDummyly(){
   return 0;
