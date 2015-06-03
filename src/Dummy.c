@@ -7,3 +7,7 @@ int doDummyStuff() {
 int doSomeOtherStuffs() {
   return -1;
 }
+
+int doSomeReallyDummyStuff(){
+  return 0;
+}
