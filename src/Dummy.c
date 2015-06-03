@@ -20,6 +20,13 @@ int whatToDoToStopAssignment(){
   return 0
 }
 
+
+void add_something_bodoh (){
+  return -3;
+  }
+
+int whatToDoToStopAssignment()
+=======
 int dontDoDummyThingsPlease() {
   doDummyStuff();
   doSomeOtherStuffs();
@@ -27,6 +34,7 @@ int dontDoDummyThingsPlease() {
 }
 
 int whatToDoToGetMoreAssignments()
+
 {
   return 0;
 }
