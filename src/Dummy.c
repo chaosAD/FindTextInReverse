@@ -11,3 +11,8 @@ int doSomeOtherStuffs() {
 int seriouslyDummyStuff(){
 	return 1;
 	}
+
+int whatToDoToStopAssignment()
+{
+  return 0;
+}
