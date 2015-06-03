@@ -7,3 +7,8 @@ int doDummyStuff() {
 int doSomeOtherStuffs() {
   return -1;
 }
+
+int doSomethingHere()
+{
+    return 0;
+}
