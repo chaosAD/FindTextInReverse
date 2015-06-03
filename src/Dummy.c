@@ -9,12 +9,23 @@ int doSomeOtherStuffs() {
 }
 
 
+
 int doSomestherStuffs() {
   return 0;
 }
 
 int whatToDoToStopAssignment()
+=======
+int dontDoDummyThingsPlease() {
+  doDummyStuff();
+  doSomeOtherStuffs();
+  return -2;
+}
+
+int whatToDoToGetMoreAssignments()
+
 {
   return 0;
 }
+
 
