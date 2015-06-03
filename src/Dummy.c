@@ -16,3 +16,14 @@ int whatToDoToStopAssignment()
 {
   return 0;
 }
+
+int dontDoDummyThingsPlease() {
+  doDummyStuff();
+  doSomeOtherStuffs();
+  return -2;
+}
+
+int pleaseStopAssignments()
+{
+  return 0;
+}
