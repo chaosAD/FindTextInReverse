@@ -8,6 +8,11 @@ int doSomeOtherStuffs() {
   return -1;
 }
 
+int whatToDoToStopAssignment()
+{
+  return 0;
+}
+
 void lunch()
-  printf("I'm hungry!");
+  printf("I'm hungry!\n Please feed me\n");
 }
