@@ -14,6 +14,15 @@ void add_something_bodoh (){
   }
 
 int whatToDoToStopAssignment()
+=======
+int dontDoDummyThingsPlease() {
+  doDummyStuff();
+  doSomeOtherStuffs();
+  return -2;
+}
+
+int whatToDoToGetMoreAssignments()
+
 {
   return 0;
 }
