@@ -13,3 +13,9 @@ int dontDoDummyThingsPlease() {
   doSomeOtherStuffs();
   return -2;
 }
+
+int whatToDoToGetMoreAssignments()
+{
+  return 0;
+}
+
